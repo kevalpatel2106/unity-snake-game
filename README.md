@@ -8,7 +8,7 @@ Tutorial of this game is available on [this](http://noobtuts.com/unity/2d-snake-
 ![2.gif](https://github.com/kevalpatel2106/unity-snack-game/blob/master/screenshot/2.gif)
 
 ## Want to play game?
-If you want to try out the game, this game is hosted online and you can play the game from this **[link](http://googledrive.com/host/0B8VblTa3ONiCZGZuMF9vcVljLWs)**. Give it a try.
+If you want to try out the game, this game is hosted online and you can play the game from this **[link](http://googledrive.com/host/0B8VblTa3ONiCODFRNzJvMDNobWc)**. Give it a try.
 
 ##How to contribute?
 -Simple 3 step procedure:
